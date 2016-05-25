@@ -1,0 +1,4 @@
+﻿  GuessWeek4.cpp
+\\psf\home\documents\university_of_phoenix\prg410\guessweek4\guessweek4\guessweek4.cpp(76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\psf\home\documents\university_of_phoenix\prg410\guessweek4\guessweek4\guessweek4.cpp(272): warning C4715: 'reviewGuess': not all control paths return a value
+  GuessWeek4.vcxproj -> \\psf\Home\Documents\University_of_Phoenix\PRG410\GuessWeek4\Debug\GuessWeek4.exe
