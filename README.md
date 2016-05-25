@@ -1,4 +1,4 @@
-# Stadium-Seating
+# Guessing Game
 
 /*	Brad Haydell
 Upgraded Guessing Game Program
